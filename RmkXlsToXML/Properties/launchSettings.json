@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "RmkXlsToXML": {
+      "commandName": "Project",
+      "commandLineArgs": "-s c:/temp/rmk/xls/SampleAssignmentFile.xls -o c:/temp/rmk/xml -r 0123456789"
+    }
+  }
+}
